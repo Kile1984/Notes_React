@@ -1,0 +1,17 @@
+.myJumbotron{
+    background-color: #2d93e0;
+    .jumboH1{
+        font-size: 3.5rem;
+        color: #fff;
+    }
+}
+
+@media (min-width: 576px) { 
+    .myJumbotron{
+        background-color: #c3d4e0;
+        .jumboH1{
+            font-size: 4.5rem;
+            color: #000;
+        }
+    }
+ }

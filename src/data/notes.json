@@ -1,0 +1,37 @@
+[
+    {
+      "title": "Shopping",
+      "todayDate" : 1573829160110,
+      "body": "Go to shopping and by: bread, milk, tomato, cucumber",
+      "author": "Alphonso",
+      "status": true
+    },
+    {
+        "title": "Clining",
+        "todayDate" : 1573129160111,
+        "body": "Clean, living room, bedroom, bathroom",
+        "author": "Anna",
+        "status": true
+    },
+    {
+        "title": "Services",
+        "todayDate" : 1523829160118,
+        "body": "Take the car to a repair shop",
+        "author": "Bennett",
+        "status": true
+      },
+      {
+        "title": "Cat",
+        "todayDate" : 1373829160118,
+        "body": "Feed the cat at 10 o'clock",
+        "author": "Susan",
+        "status": true
+      },
+      {
+        "title": "Children",
+        "todayDate" : 1570899160118,
+        "body": "Take the kids to school at 8 p.m.",
+        "author": "Alex",
+        "status": true
+      }
+  ]

@@ -1,0 +1,30 @@
+.card{
+    background-color: #d8dde6;
+    .cardTitle{
+        font-size: 1.5rem;
+        font-weight: 700;
+        color: #6a879c;
+    }
+    .cardDate{
+        font-size: 1.2rem;
+        color: #d65158;
+    }
+    .cardBody{
+        font-weight: 500;
+        text-decoration: underline;
+        color: #289e8a;
+    }
+    .author{
+        color: #7b8785;
+    }
+    
+}
+@media (min-width: 768px) { 
+    .card{
+        min-height: 300px;
+        .deleteBtn{
+            position: absolute;
+            bottom: 15px;
+        }
+    }
+ }
